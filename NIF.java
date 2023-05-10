@@ -1,4 +1,4 @@
-package actividad24;
+package actividad24;  //Este ejercicio es muiy divertido
 
 import java.util.Formatter;
 import java.util.Scanner;
